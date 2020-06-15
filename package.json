@@ -1,0 +1,19 @@
+{
+    "name": "jenkins-test",
+    "version": "0.1.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no tests specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Johannes Pandis",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "mocha": "^8.0.1",
+        "should": "^13.2.3",
+        "supertest": "^4.0.2"
+    }
+}
